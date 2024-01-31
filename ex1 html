@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this template
+-->
+<html>
+    <head>
+        <title>EXPERIMENT 1</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+    <center>
+        <h2>HOTSPOT</h2><hr>
+      
+        <img src="capture1.png"alt="can open" usemap="#map1"/>
+        <map name="map1">
+        <area shape="rect" coords="63,12,195,96" href="van1.html">
+        <area shape="rect" coords="245,194,391,281" href="cycle.html">
+        <area shape="rect" coords="38,407,220,474" href="ship.html">
+        
+              </map>
+    </center>
+    </body>
+</html>
+
+
+
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this template
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+        #movingImage {
+            position: relative;
+            animation: moveImage 4s linear infinite;
+        }
+
+        @keyframes moveImage {
+            0% {
+                left: 0;
+            }
+            50% {
+                left: 50%;
+            }
+            100% {
+                left: 0;
+            }
+        }
+    </style>
+    </head>
+    <body>
+   
+        <div id="movingImage">
+        <img src="picvan.png">
+        </div>
+    
+        <p>A van is a type of road vehicle used for transporting goods or people. Depending on the type of van, it can be bigger or smaller than a pickup truck and SUV, and bigger than a common car. There is some variation in the scope of the word across the different English-speaking countries.</p>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this template
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+        #movingImage {
+            position: relative;
+            animation: moveImage 4s linear infinite;
+        }
+
+        @keyframes moveImage {
+            0% {
+                left: 0;
+            }
+            50% {
+                left: 50%;
+            }
+            100% {
+                left: 0;
+            }
+        }
+    </style>
+    </head>
+    <body>
+   
+        <div id="movingImage">
+        <img src="cycle.png">
+        </div>
+    
+        <p>    A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-assisted, pedal-driven, single-track vehicle, with two wheels attached to a frame, one behind the other. A bicycle rider is called a cyclist, or bicyclist. Bicycles were introduced in the 19th century in Europe. Wikipedia</p>    </body>
+</html>
+
+
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this template
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+
+    </head>
+    <body>
+    <center>
+   
+     
+        <img src="shipimg.png">
+        
+    </center>
+        <p>Ship | Definition, Types, Old, & Facts | Britannica
+            ship, any large floating vessel capable of crossing open waters, as opposed to a boat, which is generally a smaller craft. The term formerly was applied to sailing vessels having three or more masts; in modern times it usually denotes a vessel of more than 500 tons of displacement</p>
+    </body>
+</html>
