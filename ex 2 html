@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <style>
+        
+        h1{
+            text-shadow:2px 2px 5px blue;
+            text-transform:capitalize;
+        }
+       
+        img{
+            height:300px;
+            width:300px;
+            display:inline-block;
+            margin:50px;
+        }
+
+        body{
+            
+            background-color: gradient blue;
+        }
+          p{
+              font-family:georgia;
+          }
+        </style>
+         </head>
+    <body>
+    <center>
+        <h1>SUNSHINE MULTISPECIALITY HOSPITAL</h1>
+        <h3>YOUR CARE OUR PROFESSION</h3>
+        <hr>
+        <div><h2>About us</h2>
+        <p>Sunshine Hospital is a leading healthcare institution dedicated to providing exceptional medical care and fostering a culture of compassion and excellence. Established in [insert year], we have been serving our community with unwavering commitment, leveraging state-of-the-art technology and a team of highly skilled healthcare professionals.</p>
+        </div>
+        <a href="login.html"><h2>login</h2></a>
+        <img src="gal1.jpg"usemap="#map1">
+        <map name="map1">
+            <area shape="rect"coords=""href="care.html">
+        </map>
+        
+        <img src="gal2.jpg">
+    </center>
+    </body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+        fieldset{
+            margin:100px;
+            padding:20px;
+        }
+       
+        </style>
+        </head>
+    <body>
+        <div></div>
+    <center>
+        <form>
+            <fieldset>
+                <legend>log in</legend>
+                username:<input type="text"><br><br>
+                password:<input type="password"><br><br>
+                email:<input type="email"><br><br>
+                dob:<input type="dob"><br><br>
+                ph no:<input type="number">
+                <input type="submit" value="submit">
+                <input type="reset" value="cancel">
+            </fieldset>
+        </form>
+    </center>
+    </body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            body{
+            text-shadow:2px 2px 5px blue;
+            text-transform:capitalize;
+        }
+        </style>
+    </head>
+    <body>
+        <div>YOUR CARE OUR PROFESSION</div>
+        
+    </body>
+</html>
+
